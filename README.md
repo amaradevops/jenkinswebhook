@@ -20,3 +20,4 @@ hhhhhhh
 welcome to you
 hello world
 execute commands
+delete
